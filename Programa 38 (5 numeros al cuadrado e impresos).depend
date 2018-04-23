@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426130251 source:c:\users\luis\dropbox\inco\programación\programa 38 (5 numeros al cuadrado e impresos)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+
